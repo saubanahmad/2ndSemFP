@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using LMS.DL;
+using Org.BouncyCastle.Asn1.X509;
 
 namespace LMS.BL
 {
@@ -49,5 +51,24 @@ namespace LMS.BL
             return pin.ToString();
         }
 
+        public static bool DeleteStudent(string id)
+        {
+            Student student = StudentDL.GetStudentById(id);
+            if (student == null)
+                return false;
+
+            int rowsAffected = StudentDL.DeleteStudentFromDB(id);
+            return rowsAffected > 0;
+        }
+
+
+
+
+        public static List<Student> GetAllStudents()
+        {
+            return StudentDL.GetAllStudents();
+        }
+ 
+       
     }
 }

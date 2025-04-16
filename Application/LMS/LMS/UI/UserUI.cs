@@ -12,6 +12,9 @@ namespace LMS.UI
     {
         public static int Login()
         {
+            Console.Clear();
+            Utilities.header();
+            Console.WriteLine("**********Login**********");
             Console.Write("Enter username: ");
             string username = Console.ReadLine();
             Console.Write("Enter password: ");

@@ -23,6 +23,8 @@ namespace LMS.UI
         }
         public static int menu()
         {
+            Console.Clear();
+            header();
             int option;
             Console.WriteLine("--Welcome to school learning management system--");
             Console.WriteLine("Select one of the following option numbers:- ");
@@ -41,13 +43,30 @@ namespace LMS.UI
 
         public static int adminMenu()
         {
-            Console.WriteLine("Logged in as Administrator");
+            Console.Clear();
+            header();
+            Console.WriteLine("**********Admin Menu**********");
             Console.WriteLine("Select one of the following option numbers:- ");
             Console.WriteLine("1. Manage Students");
             Console.WriteLine("2. Manage Teachers");
             Console.WriteLine("3. Manage Courses");
             Console.WriteLine("Enter option Number: ");
             int option= int.Parse(Console.ReadLine());
+            return option;
+        }
+        public static int studentMenu()
+        {
+            Console.Clear();
+            header();
+            Console.WriteLine("**********Student Menu**********");
+            Console.WriteLine("Select one of the following option numbers:- ");
+            Console.WriteLine("1. Add New Student");
+            Console.WriteLine("2. View All Students");
+            Console.WriteLine("3. Update Student");
+            Console.WriteLine("4. Delete Student");
+            Console.WriteLine("5. Back to Admin Menu");
+            Console.Write("Enter your option: ");
+            int option = int.Parse(Console.ReadLine());
             return option;
         }
 

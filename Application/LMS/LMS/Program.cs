@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using LMS.UI;
+using Org.BouncyCastle.Asn1.X509.Qualified;
+using Org.BouncyCastle.Crypto;
+using static Org.BouncyCastle.Crypto.Engines.SM2Engine;
 
 namespace LMS
 {
@@ -11,16 +14,9 @@ namespace LMS
     {
         static void Main(string[] args)
         {
-
-
-
-
-
+            
             while (true)
             {
-                Console.Clear();
-                Utilities.header();
-
                 int a = 0;
                 a = Utilities.menu();
                 switch (a)
@@ -34,8 +30,32 @@ namespace LMS
                                 int option = Utilities.adminMenu();
                                 if (option == 1)
                                 {
-                                    StudentUI.add();
-                                    Console.ReadKey();
+                                    while (true)
+                                    {
+                                        int choice = Utilities.studentMenu();
+                                        switch (choice)
+                                        {
+                                            case 1:
+                                                StudentUI.add();
+                                                break;
+                                            case 2:
+                                                StudentUI.ViewAllStudents();
+                                                break;
+                                            case 3:
+                                                StudentUI.UpdateStudent();
+                                                break;
+                                            case 4:
+                                                StudentUI.DeleteStudent();
+                                                break;
+                                            case 5:
+                                                break;
+                                            default:
+                                                Console.WriteLine("Invalid choice. Please select a valid option.");
+                                                break;
+                                        }
+                                        break;
+                                    }
+                                    
                                 }
                             }
                             

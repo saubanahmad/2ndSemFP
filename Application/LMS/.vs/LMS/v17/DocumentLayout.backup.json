@@ -11,32 +11,32 @@
       "RelativeMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|solutionrelative:lms\\ui\\utitlities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|C:\\OOP\\2ndSemFP\\Application\\LMS\\lms\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|solutionrelative:lms\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|C:\\OOP\\2ndSemFP\\Application\\LMS\\lms\\dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|solutionrelative:lms\\dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|C:\\OOP\\2ndSemFP\\Application\\LMS\\lms\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|solutionrelative:lms\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|C:\\OOP\\2ndSemFP\\Application\\LMS\\lms\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|solutionrelative:lms\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|C:\\OOP\\2ndSemFP\\Application\\LMS\\lms\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|solutionrelative:lms\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|C:\\OOP\\2ndSemFP\\Application\\LMS\\lms\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|solutionrelative:lms\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|C:\\OOP\\2ndSemFP\\Application\\LMS\\lms\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|solutionrelative:lms\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|C:\\OOP\\2ndSemFP\\Application\\LMS\\lms\\dl\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|solutionrelative:lms\\dl\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|C:\\OOP\\2ndSemFP\\Application\\LMS\\lms\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|solutionrelative:lms\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|C:\\OOP\\2ndSemFP\\Application\\LMS\\lms\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|solutionrelative:lms\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|C:\\OOP\\2ndSemFP\\Application\\LMS\\lms\\dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CA0F9C-10CA-42F3-B6CC-3E27728FBC6B}|LMS\\LMS.csproj|solutionrelative:lms\\dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,19 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentUI.cs",
-              "DocumentMoniker": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\UI\\StudentUI.cs",
-              "RelativeDocumentMoniker": "LMS\\UI\\StudentUI.cs",
-              "ToolTip": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\UI\\StudentUI.cs",
-              "RelativeToolTip": "LMS\\UI\\StudentUI.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T07:01:40.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "UserDL.cs",
               "DocumentMoniker": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\DL\\UserDL.cs",
               "RelativeDocumentMoniker": "LMS\\DL\\UserDL.cs",
@@ -79,50 +67,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "StudentDL.cs",
-              "DocumentMoniker": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\DL\\StudentDL.cs",
-              "RelativeDocumentMoniker": "LMS\\DL\\StudentDL.cs",
-              "ToolTip": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\DL\\StudentDL.cs",
-              "RelativeToolTip": "LMS\\DL\\StudentDL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T07:00:01.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "DatabaseHelper.cs",
               "DocumentMoniker": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\DL\\DatabaseHelper.cs",
               "RelativeDocumentMoniker": "LMS\\DL\\DatabaseHelper.cs",
               "ToolTip": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\DL\\DatabaseHelper.cs",
               "RelativeToolTip": "LMS\\DL\\DatabaseHelper.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T06:56:40.969Z"
+              "WhenOpened": "2025-04-10T06:56:40.969Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\BL\\User.cs",
               "RelativeDocumentMoniker": "LMS\\BL\\User.cs",
               "ToolTip": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\BL\\User.cs",
               "RelativeToolTip": "LMS\\BL\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T06:55:47.727Z"
+              "WhenOpened": "2025-04-10T06:55:47.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "StudentDL.cs",
+              "DocumentMoniker": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\DL\\StudentDL.cs",
+              "RelativeDocumentMoniker": "LMS\\DL\\StudentDL.cs",
+              "ToolTip": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\DL\\StudentDL.cs",
+              "RelativeToolTip": "LMS\\DL\\StudentDL.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:00:01.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\BL\\Student.cs",
               "RelativeDocumentMoniker": "LMS\\BL\\Student.cs",
               "ToolTip": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\BL\\Student.cs",
               "RelativeToolTip": "LMS\\BL\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T06:54:38.879Z"
+              "WhenOpened": "2025-04-10T06:54:38.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentUI.cs",
+              "DocumentMoniker": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\UI\\StudentUI.cs",
+              "RelativeDocumentMoniker": "LMS\\UI\\StudentUI.cs",
+              "ToolTip": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\UI\\StudentUI.cs",
+              "RelativeToolTip": "LMS\\UI\\StudentUI.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAJIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:01:40.439Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -130,9 +135,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\Program.cs",
               "RelativeDocumentMoniker": "LMS\\Program.cs",
-              "ToolTip": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\Program.cs",
-              "RelativeToolTip": "LMS\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwBoAAAARAAAAAAAAAA==",
+              "ToolTip": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\Program.cs*",
+              "RelativeToolTip": "LMS\\Program.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T06:53:54.333Z",
               "EditorCaption": ""
@@ -145,9 +150,10 @@
               "RelativeDocumentMoniker": "LMS\\UI\\Utitlities.cs",
               "ToolTip": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\UI\\Utitlities.cs",
               "RelativeToolTip": "LMS\\UI\\Utitlities.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAqwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwEQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T07:01:58.641Z"
+              "WhenOpened": "2025-04-10T07:01:58.641Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -157,9 +163,10 @@
               "RelativeDocumentMoniker": "LMS\\UI\\UserUI.cs",
               "ToolTip": "C:\\OOP\\2ndSemFP\\Application\\LMS\\LMS\\UI\\UserUI.cs",
               "RelativeToolTip": "LMS\\UI\\UserUI.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T07:02:47.286Z"
+              "WhenOpened": "2025-04-10T07:02:47.286Z",
+              "EditorCaption": ""
             }
           ]
         }
